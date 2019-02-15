@@ -1,0 +1,10 @@
+--atlas -f rgba8888 -z auto
+bg.png
+zaru.png
+r_apple.png
+g_apple.png
+p_apple.png
+life.png
+life_loss.png
+get.png
+end.png
